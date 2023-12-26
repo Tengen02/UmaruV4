@@ -1,5 +1,5 @@
 {
-	"name": "UmaruV4",
+	"name": "ImranV4",
 	"version": "40.0.1",
 	"description": "Facebook Messenger Bot made by John Lester",
 	"main": "index.js",
@@ -9,19 +9,19 @@
 	"type": "module",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/rootalocalhost-dev/UmaruV4"
+		"url": "https://github.com/MR-IMRAN-60/UmaruV4"
 	},
 	"keywords": [
 		"UmaruV4Bot",
 		"rootalocalhost.dev",
 		"JohnLesterproject"
 	],
-	"author": "John Lester",
+	"author": "Imran Ahmed",
 	"license": "AGPL-3.0 license",
 	"bugs": {
-		"url": "https://github.com/rootalocalhost-dev/UmaruV4/issues"
+		"url": "https://github.com/MR-IMRAN-60/UmaruV4/issues"
 	},
-	"homepage": "https://github.com/rootalocalhost-dev/UmaruV4",
+	"homepage": "https://github.com/MR-IMRAN-60/UmaruV4",
 	"dependencies": {
 		"ansi-to-html": "^0.7.2",
 		"axios": "^1.6.2",

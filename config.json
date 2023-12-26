@@ -2,9 +2,9 @@
 	"language": "en",
 	"TimeZone": "Asia/Manila",
 	"ProductKey": "s/vP unnH Pln5 Z4Vn SmGK /Fwf Oh/z jMMp 8nGd P8FV C94u ybpn Fg7j v3ss dndC GtXi 6gdr VzVr 4hy2 X7IY 5KHN xg==",
-	"key": "7F F4 2C 4F 98 AC EB 60 91 57 40 40 61 30 56 6C",
-	"Dashboard": "http://umaruv4.imran-bot01.repl.co",
-	"dashboard": "http://umaruv4.imran-bot01.repl.co",
+	"key": "A1 C5 E4 13 6B EB 1C 65 3F C1 C8 17 57 37 B5 1A",
+	"Dashboard": "http://test-2.imran-bot01.repl.co",
+	"dashboard": "http://test-2.imran-bot01.repl.co",
 	"PORT": 8080,
 	"currentMainPort": 8080,
 	"DeveloperMode": false,
@@ -128,9 +128,9 @@
 				"mode": "None"
 			}
 		},
-		"key": "7F F4 2C 4F 98 AC EB 60 91 57 40 40 61 30 56 6C",
+		"key": "A1 C5 E4 13 6B EB 1C 65 3F C1 C8 17 57 37 B5 1A",
 		"Backup": {
-			"key": "7F F4 2C 4F 98 AC EB 60 91 57 40 40 61 30 56 6C"
+			"key": "A1 C5 E4 13 6B EB 1C 65 3F C1 C8 17 57 37 B5 1A"
 		}
 	}
 }
